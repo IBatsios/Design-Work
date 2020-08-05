@@ -7,6 +7,6 @@
 - Used to show product pages and pagination
 - Developed using Adobe XD
 
-## <a href="https://github.com/IBatsios/Design-Work/tree/master/Featurama">Featurama</a> is a social media site that I design.
+## <a href="https://github.com/IBatsios/Design-Work/tree/master/Featurama">Featurama</a> is a social media site that I designed.
 
-- Developed using Balsamiq
+- Developed using <a href="https://balsamiq.com/">Balsamiq</a>
